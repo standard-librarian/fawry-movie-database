@@ -1,0 +1,10 @@
+com/fawry/moviemanagement/movie/repository/MovieRatingRepository.class
+com/fawry/moviemanagement/movie/model/Movie.class
+com/fawry/moviemanagement/auth/model/Role.class
+com/fawry/moviemanagement/auth/model/User.class
+com/fawry/moviemanagement/auth/repository/UserRepository.class
+com/fawry/moviemanagement/security/jwt/JwtAuthenticationFilter.class
+com/fawry/moviemanagement/security/config/SecurityConfig.class
+com/fawry/moviemanagement/movie/model/MovieRating.class
+com/fawry/moviemanagementbackend/dto/MovieRatingReportDTO.class
+com/fawry/moviemanagement/security/jwt/JwtService.class
